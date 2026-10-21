@@ -2,6 +2,7 @@
 #include <device/SPI/apa102/apa102.hpp>
 #include <in_flash.hpp>
 #include <font.hpp>
+#include <utils.hpp>
 
 static APA102 mAPA102(8);
 
